@@ -4,6 +4,7 @@
 <img width="2000" height="2000" alt="Kuzaha-ezgif com-gif-maker" src="https://github.com/user-attachments/assets/8bb62a5c-7375-47b9-92f5-be0a92fbef90" />
 
 ㅤㅤㅤㅤㅤㅤ  ㅤ───୨ৎ────
+ᴡɪᴘ sᴛᴏᴘᴘ ɢʀʀʀ
 
 <!--https://kommodo.ai/i/KpdmhxraCoqq0XJT4CXL
 **Astrxid/Astrxid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
