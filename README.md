@@ -1,7 +1,7 @@
 ## 
 ㅤㅤㅤㅤㅤ ㅤ⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
-<img width="2000" height="2000" alt="Untitled1_20260505111113" src="https://github.com/user-attachments/assets/0108e13e-261e-433e-9669-da50a0cb13af" />
 
+<img width="2000" height="2000" alt="Kuzaha-ezgif com-gif-maker" src="https://github.com/user-attachments/assets/8bb62a5c-7375-47b9-92f5-be0a92fbef90" />
 
 ㅤㅤㅤㅤㅤㅤ  ㅤ───୨ৎ────
 
