@@ -1,6 +1,9 @@
 ## 
-⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
-https://kommodo.ai/i/KpdmhxraCoqq0XJT4CXL
+ㅤㅤㅤㅤㅤㅤ⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
+<img width="4000" height="4000" alt="Untitled1_20260505105726" src="https://github.com/user-attachments/assets/3bd2955a-79ba-4dfd-a4f3-ff8b4a0ed47a" />
+
+ㅤㅤㅤㅤㅤㅤ ㅤ───୨ৎ────
+
 <!--https://kommodo.ai/i/KpdmhxraCoqq0XJT4CXL
 **Astrxid/Astrxid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
