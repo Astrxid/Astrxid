@@ -8,7 +8,7 @@
 ㅤㅤㅤㅤㅤ  ㅤㅤ───୨ৎ────
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ𝐜+𝐡 𝐟𝐫𝐞𝐞𝐥𝐲
 ㅤㅤㅤㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[𝓡𝓮𝓷𝓽𝓻𝔂](https://rentry.co/CassyCassy) ♱ [𝓐𝓽𝓪𝓫𝓸𝓸𝓴](https://cxssy.atabook.org/)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[𝓡𝓮𝓷𝓽𝓻𝔂](https://rentry.co/CassyCassy) ♱ [𝓐𝓽𝓪𝓫𝓸𝓸𝓴](https://cxssy.atabook.org/)
 
    
 <!--https://kommodo.ai/i/KpdmhxraCoqq0XJT4CXL
