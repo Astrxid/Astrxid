@@ -1,11 +1,16 @@
 ## 
-ㅤㅤㅤㅤㅤ ㅤ⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
+ㅤ◞"𝓘'𝓶 𝓸𝓴𝓪𝔂 𝔀𝓲𝓽𝓱 𝓽𝓱𝓲𝓼. 𝓘'𝓶 𝓰𝓵𝓪𝓭 𝓘 𝓶𝓮𝓽 𝔂𝓸𝓾 𝓪𝓵𝓵."
 
-<img width="2000" height="2000" alt="Kuzaha-ezgif com-gif-maker" src="https://github.com/user-attachments/assets/8bb62a5c-7375-47b9-92f5-be0a92fbef90" />
+ㅤㅤㅤㅤㅤㅤ⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
 
-ㅤㅤㅤㅤㅤㅤ  ㅤ───୨ৎ────
-ᴡɪᴘ sᴛᴏᴘᴘ ɢʀʀʀ
+<img width="498" height="281" alt="an1r3dm0c9mg1" src="https://github.com/user-attachments/assets/4ff91091-0a99-43dc-b7cb-5b9c187288d1" />
 
+ㅤㅤㅤㅤㅤ  ㅤㅤ───୨ৎ────
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ𝐜+𝐡 𝐟𝐫𝐞𝐞𝐥𝐲
+ㅤㅤㅤㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[𝓡𝓮𝓷𝓽𝓻𝔂](https://rentry.co/CassyCassy) ♱ [𝓐𝓽𝓪𝓫𝓸𝓸𝓴](https://cxssy.atabook.org/)
+
+   
 <!--https://kommodo.ai/i/KpdmhxraCoqq0XJT4CXL
 **Astrxid/Astrxid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
