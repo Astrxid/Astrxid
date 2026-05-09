@@ -10,6 +10,12 @@
 ㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[𝓡𝓮𝓷𝓽𝓻𝔂](https://rentry.co/CassyCassy) ♱ [𝓐𝓽𝓪𝓫𝓸𝓸𝓴](https://cxssy.atabook.org/)
 
+
+
+
+
+
+![](https://komarev.com/ghpvc/?username=antonkomarev&label=𝓛𝓸𝓵&color=lightgrey)
    
 <!--https://kommodo.ai/i/KpdmhxraCoqq0XJT4CXL
 **Astrxid/Astrxid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
