@@ -1,22 +1,58 @@
-## 
-ㅤ◞"𝓘'𝓶 𝓸𝓴𝓪𝔂 𝔀𝓲𝓽𝓱 𝓽𝓱𝓲𝓼. 𝓘'𝓶 𝓰𝓵𝓪𝓭 𝓘 𝓶𝓮𝓽 𝔂𝓸𝓾 𝓪𝓵𝓵."
+<div align="center">
 
-ㅤㅤㅤㅤㅤㅤ⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
+<img src="https://64.media.tumblr.com/3d86a0ed43f29bf61d662eb11e26d603/5663c57e5a3d9d47-44/s540x810/644ae7da821deedac68d74b800a3b32d78ec72c0.gif" width="600"/>
 
-<img width="498" height="281" alt="an1r3dm0c9mg1" src="https://github.com/user-attachments/assets/4ff91091-0a99-43dc-b7cb-5b9c187288d1" />
-
-ㅤㅤㅤㅤㅤ  ㅤㅤ───୨ৎ────
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ𝐜+𝐡 𝐟𝐫𝐞𝐞𝐥𝐲
-ㅤㅤㅤㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[𝓡𝓮𝓷𝓽𝓻𝔂](https://rentry.co/CassyCassy) ♱ [𝓐𝓽𝓪𝓫𝓸𝓸𝓴](https://cxssy.atabook.org/)
+![](https://img.shields.io/badge/Alien%20Stage-ff9ec4?style=for-the-badge)
 
 
 
-
-
+<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=antonkomarev&label=𝓛𝓸𝓵&color=lightgrey)
+
+<p align="center">
+<img src="YOURGIFHERE" width="500">
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/CASSY-f6c1d7?style=for-the-badge">
+</p>
+
+---
+
+<p align="center">
+𓆩♡𓆪  
+<br>
+“even stars disappear eventually.”
+<br><br>
+
+୨୧ girl online  
+୨୧ alien stage addict  
+୨୧ pink + black enthusiast  
+୨୧ terminally aesthetic  
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://64.media.tumblr.com/3d86a0ed43f29bf61d662eb11e26d603/5663c57e5a3d9d47-44/s540x810/644ae7da821deedac68.gif" width="400">
+</p>
+
+<p align="center">
+♫ now playing: unknown till the end
+</p>
+
+<p align="center">
    
+<img src="https://img.shields.io/badge/YUMI-ff9ec4?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/EDEN-f7b2d9?style=for-the-badge">
+                                        <img src="https://img.shields.io/badge/WUMBLE-ff9ec4?style=for-the-badge">
+                                   
+<img src="https://img.shields.io/badge/HERMES-f7b2d9?style=for-the-badge">
+
+WIP
 <!--https://kommodo.ai/i/KpdmhxraCoqq0XJT4CXL
 **Astrxid/Astrxid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
