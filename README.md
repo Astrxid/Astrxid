@@ -26,9 +26,7 @@
 “even stars disappear eventually.”
 <br><br>
 
-୨୧ girl online  
-୨୧ alien stage addict  
-୨୧ pink + black enthusiast  
+ ୨୧ pink + black enthusiast  
 ୨୧ terminally aesthetic  
 
 </p>
@@ -54,6 +52,16 @@
 <img src="https://img.shields.io/badge/HERMES-ff9ec4?style=for-the-badge">
 <img 
 src="https://img.shields.io/badge/KIKKY-f7b2d9?style=for-the-badge">
+<img src="https://img.shields.io/badge/VET-ff9ec4?style=for-the-badge">
+<img 
+src="https://img.shields.io/badge/ZUZU-f7b2d9?style=for-the-badge">
+<img src="https://img.shields.io/badge/S-ff9ec4?style=for-the-badge">
+<img 
+src="https://img.shields.io/badge/DINO-f7b2d9?style=for-the-badge">
+<img src="https://img.shields.io/badge/JAY-ff9ec4?style=for-the-badge">
+<img 
+src="https://img.shields.io/badge/CHIPS-f7b2d9?style=for-the-badge">
+<img src="https://img.shields.io/badge/KANTO-ff9ec4?style=for-the-badge">
 
 WIP
 <!--https://kommodo.ai/i/KpdmhxraCoqq0XJT4CXL
