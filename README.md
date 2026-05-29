@@ -50,7 +50,10 @@
 <img src="https://img.shields.io/badge/EDEN-f7b2d9?style=for-the-badge">
                                         <img src="https://img.shields.io/badge/WUMBLE-ff9ec4?style=for-the-badge">
                                    
-<img src="https://img.shields.io/badge/HERMES-f7b2d9?style=for-the-badge">
+<img src="https://img.shields.io/badge/SHIYU-f7b2d9?style=for-the-badge">
+<img src="https://img.shields.io/badge/HERMES-ff9ec4?style=for-the-badge">
+<img 
+src="https://img.shields.io/badge/KIKKY-f7b2d9?style=for-the-badge">
 
 WIP
 <!--https://kommodo.ai/i/KpdmhxraCoqq0XJT4CXL
