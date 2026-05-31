@@ -62,8 +62,19 @@ src="https://img.shields.io/badge/DINO-f7b2d9?style=for-the-badge">
 <img 
 src="https://img.shields.io/badge/CHIPS-f7b2d9?style=for-the-badge">
 <img src="https://img.shields.io/badge/KANTO-ff9ec4?style=for-the-badge">
+<img 
+src="https://img.shields.io/badge/ZVAZDA-f7b2d9?style=for-the-badge">
+<img src="https://img.shields.io/badge/ISAAC-ff9ec4?style=for-the-badge">
+<img 
+src="https://img.shields.io/badge/PLUMWIRE-f7b2d9?style=for-the-badge">
+<img src="https://img.shields.io/badge/GIN-ff9ec4?style=for-the-badge">
+<img 
+src="https://img.shields.io/badge/YOYO-f7b2d9?style=for-the-badge">
+<img src="https://img.shields.io/badge/KOM-ff9ec4?style=for-the-badge">
+<img 
+src="https://img.shields.io/badge/SEN-f7b2d9?style=for-the-badge">
+<img src="https://img.shields.io/badge/JINKO-ff9ec4?style=for-the-badge">
 
-WIP
 <!--https://kommodo.ai/i/KpdmhxraCoqq0XJT4CXL
 **Astrxid/Astrxid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
