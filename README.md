@@ -64,7 +64,7 @@ src="https://img.shields.io/badge/CHIPS-f7b2d9?style=for-the-badge">
 <img src="https://img.shields.io/badge/KANTO-ff9ec4?style=for-the-badge">
 <img 
 src="https://img.shields.io/badge/ZVAZDA-f7b2d9?style=for-the-badge">
-<img src="https://img.shields.io/badge/KALLI-ff9ec4?style=for-the-badge">
+<img src="https://img.shields.io/badge/KARI-ff9ec4?style=for-the-badge">
 <img 
 src="https://img.shields.io/badge/PLUMWIRE-f7b2d9?style=for-the-badge">
 <img src="https://img.shields.io/badge/GIN-ff9ec4?style=for-the-badge">
