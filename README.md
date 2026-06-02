@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=antonkomarev&label=𝓛𝓸𝓵&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=DenverCoder1&label=♰&color=ff69b4)
 
 <p align="center">
 <img src="https://64.media.tumblr.com/05f06f3bf041e5ea9a2b11960cbf2b06/3d52c469c15f5b5e-3f/s1280x1920/a7b585c12eec60d66a6a30a395a4b5e6d70605cf.pnj" width="500">
@@ -18,6 +18,8 @@
 <img src="https://img.shields.io/badge/CASSY-f6c1d7?style=for-the-badge">
 </p>
 
+𝒔𝒊𝒈𝒏 [新𝒃𝒐𝒐𝒌](https://cxssy.atabook.org/)  𝒇𝒓𝒆𝒆𝒍𝒚.
+
 ---
 
 <p align="center">
@@ -26,9 +28,7 @@
 “even stars disappear eventually.”
 <br><br>
 
- ୨୧ pink + black enthusiast  
-୨୧ terminally aesthetic  
-
+ [𝑹𝒆𝒏𝒕𝒓𝒚](https://rentry.co/Astrxid)  ୨ৎ  [𝑮𝒖𝒏𝒔.𝒍𝒐𝒍](https://guns.lol/astrixd)
 </p>
 
 ---
@@ -39,6 +39,8 @@
 
 <p align="center">
 ♫ now playing: unknown till the end
+
+ 𝒐𝒐𝒎𝒇𝒔 ꨄ︎
 </p>
 
 <p align="center">
