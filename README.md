@@ -41,7 +41,7 @@
 <p align="center">
 ♫ now playing: unknown till the end
 
- 𝒐𝒐𝒎𝒇𝒔 ꨄ︎
+ALL 𝒐𝒐𝒎𝒇𝒔 ꨄ︎
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@ src="https://img.shields.io/badge/KIKKY-fffada?style=for-the-badge">
 <img src="https://img.shields.io/badge/VET-fafafa?style=for-the-badge">
 <img 
 src="https://img.shields.io/badge/ZUZU-fffada?style=for-the-badge">
-<img src="https://img.shields.io/badge/S-fafafa?style=for-the-badge">
+<img src="https://img.shields.io/badge/SIL-fafafa?style=for-the-badge">
 <img 
 src="https://img.shields.io/badge/DINO-fffada?style=for-the-badge">
 <img src="https://img.shields.io/badge/JAY-fafafa?style=for-the-badge">
@@ -80,6 +80,18 @@ src="https://img.shields.io/badge/SEN-fffada?style=for-the-badge">
 <img 
 src="https://img.shields.io/badge/ANNIKA-fffada?style=for-the-badge">
 <img src="https://img.shields.io/badge/SUNNY-fafafa?style=for-the-badge">
+<img 
+src="https://img.shields.io/badge/FLORIAN-fffada?style=for-the-badge">
+<img src="https://img.shields.io/badge/YU-fafafa?style=for-the-badge">
+<img 
+src="https://img.shields.io/badge/MEGZ-fffada?style=for-the-badge">
+<img src="https://img.shields.io/badge/HARVEY-fafafa?style=for-the-badge">
+<img 
+src="https://img.shields.io/badge/XOLARIS-fffada?style=for-the-badge">
+<img src="https://img.shields.io/badge/JACKIE-fafafa?style=for-the-badge">
+<img 
+src="https://img.shields.io/badge/KYUU-fffada?style=for-the-badge">
+<img src="https://img.shields.io/badge/SEN-fafafa?style=for-the-badge">
 <!--https://kommodo.ai/i/KpdmhxraCoqq0XJT4CXL
 **Astrxid/Astrxid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
