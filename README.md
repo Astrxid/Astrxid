@@ -92,6 +92,8 @@ src="https://img.shields.io/badge/XOLARIS-fffada?style=for-the-badge">
 <img 
 src="https://img.shields.io/badge/KYUU-fffada?style=for-the-badge">
 <img src="https://img.shields.io/badge/SEN-fafafa?style=for-the-badge">
+<img 
+src="https://img.shields.io/badge/TOFU-fffada?style=for-the-badge">
 <!--https://kommodo.ai/i/KpdmhxraCoqq0XJT4CXL
 **Astrxid/Astrxid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
